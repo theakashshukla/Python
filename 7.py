@@ -1,6 +1,6 @@
 # Write a program to Demonstrate working with Dictionaries in Python
 
-Desc = {'Name': 'Java', 'Version': '3.7.0', 'Author': 'Akash Shukla', 'Year': '2022'}
+Desc = {'Name': 'Java', 'Version': '3.7.0', 'Author': 'Akash', 'Year': '2022'}
 
 print("-------Akash Shukla-------") 
 

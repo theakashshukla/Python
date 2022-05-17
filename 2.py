@@ -1,9 +1,7 @@
 # Write a program to perform different arithmetic operations on numbers in python.
-
-print("-------Akash Shukla-------") 
-
-a=30
-b=20
+print("-------Akash Shukla-------")
+a=60
+b=200
 
 #Addition
 c=a+b

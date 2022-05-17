@@ -1,5 +1,4 @@
 # Write a python program to Print Prime numbers less than 20
-
 print("-----------Akash Shukla-----------") 
 print("Prime numbers between 1 and 20 are:")
 numbers=20;

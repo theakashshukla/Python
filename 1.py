@@ -1,5 +1,4 @@
 # Write a program to Demonstrate different various datatypes in Python.
-
 print("-------Akash Shukla-------") 
 
 #Integers

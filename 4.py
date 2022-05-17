@@ -1,5 +1,4 @@
 # Write a python script to print the current date in following format “Sun May 8 02:26:23 MCU 2022”
-
 import datetime
 
 print("-------Akash Shukla-------") 

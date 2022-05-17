@@ -1,7 +1,6 @@
 # Write a program to demonstrate working with tuples in python
-
 tuple = (1,2,3,4,5.2,6,7,8,9,10)
-tuple1 = ("Akash", "Akshay", "Amit", "Ankit", "Anshuman", "Ashish")
+tuple1 = ("Akash", "Pawan", "Amit", "Ankit", "Parth", "Ashish")
 tuple2 = (tuple + tuple1)
 
 print("-------Akash Shukla-------") 

@@ -1,11 +1,9 @@
 # Write a program to create, concatenate and print a string and accessing substring from a given String
-
-str = "Python in"
-str1 = "VS Code"
+str = "Hello"
+str1 = "Akash Shukla"
 
 str3 = str + " " + str1
-
-print("-------Akash Shukla-------") 
+print("---------Akash Shukla---------")
 print(str3)
 
 print(" ".join([str, str1]))  
