@@ -1,5 +1,5 @@
 # Write a python program to show Single Inheritance.
-print("-----------Akash shukla-------------")
+print("-----------Akash Shukla-------------")
 class Course:
      def func1(self):
           print("This is function one")
