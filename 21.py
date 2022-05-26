@@ -1,7 +1,7 @@
 # Write a python program to show Operation on File.
 
 print("------------Akash Shukla------------")
-text_file = open('I:\Khushi.txt','w')
+text_file = open('I:\hi.txt','w')
  
 word_list= []
  
