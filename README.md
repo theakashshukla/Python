@@ -28,6 +28,16 @@
 | 21 | Write a python program to show Operation on File. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Python/blob/main/21.py)  |
 | 22 |Write a python program to show How to connect Database. | [Code](https://github.com/Makhanlal-Chaturvedi-University/Python/blob/main/22.py) |
 
+
+## Related
+
+Here are some related projects
+
+[Web Technologies](https://github.com/Makhanlal-Chaturvedi-University/Web-Technologies)
+
+[Data Structures & Algorithms](https://github.com/Makhanlal-Chaturvedi-University/Data-Structures-Algorithms)
+
+
 ### Thanks to all the contributors ❤️
 <a href = "https://github.com/Makhanlal-Chaturvedi-University/Python/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Makhanlal-Chaturvedi-University/Python"/>
