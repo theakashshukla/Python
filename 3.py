@@ -3,7 +3,7 @@ str = "Hello"
 str1 = "Akash Shukla"
 
 str3 = str + " " + str1
-print("---------Akash Shukla---------")
+print("----Akash Shukla----")
 print(str3)
 
 print(" ".join([str, str1]))  

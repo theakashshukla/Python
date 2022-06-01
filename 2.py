@@ -1,5 +1,5 @@
 # Write a program to perform different arithmetic operations on numbers in python.
-print("-------Akash Shukla-------")
+print("----Akash Shukla----")
 a=60
 b=200
 

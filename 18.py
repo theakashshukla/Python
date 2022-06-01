@@ -24,7 +24,7 @@ class Son(Father, Mother):
  
  
 s1 = Son() 
-s1.fathername = "Howe"
-s1.mothername = "Trash"
+s1.fathername = "Broad"
+s1.mothername = "Nimlm"
 s1.show_family()
 s1.show_parent()
