@@ -10,7 +10,7 @@ class Subject2(Course):
       def func3(self):
           print("this is function 3")
  
-ob = Subject()
+ob =  Subject()
 ob1 = Subject2()
 ob.func1()
 ob.func2()

@@ -2,9 +2,9 @@
 
 print("------------Akash Shukla------------")
 text_file = open('I:\hi.txt','w')
- 
+  
 word_list= []
- 
+
 for i in range (1, 5):
     print("Please enter data: ")
     line = input() 
