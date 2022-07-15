@@ -3,5 +3,5 @@ a=int(input("Enter the first number: "))
 b=int(input("Enter the second number: "))
 
 c=a**b
-print("------------Akash Shukla------------")
+print("------------Akash Shukla-------------") 
 print("The value of the first number raised to the power of the second number is: ",c)
